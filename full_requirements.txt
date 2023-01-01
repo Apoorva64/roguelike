@@ -1,0 +1,9 @@
+matplotlib==3.3.4
+moderngl==5.6.4
+numpy==1.20.1
+openpyxl==3.0.6
+pandas==1.2.2
+Pillow==8.1.0
+pygame==2.0.1
+pygame-gui==0.5.7
+pathfinding~=1.0.1

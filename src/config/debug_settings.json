@@ -1,0 +1,88 @@
+{
+  "game_class": {
+    "SMOOTH_ZOOM": true,
+    "fullscreen": false,
+    "BASE_DISPLAY_SIZE": [
+      1920,
+      1080
+    ],
+    "WINDOWED_DISPLAY_SIZE": [
+      960,
+      540
+    ],
+    "ZOOM_SENSITIVITY": 0.2,
+    "lod_offset": 1,
+    "fps_target": 60,
+    "night_color": [
+      20,
+      20,
+      20
+    ],
+    "fog_resolution": 4,
+    "debug": false,
+    "night_mode_active": true,
+    "skip_menu": true
+  },
+  "map_generation": {
+    "CHUNK_SIZE": 10,
+    "MAP_SIZE": 100,
+    "DATA_FOLDER": "../data",
+    "seed": 1829481465724978,
+    "rooms":10,
+    "TILE_SIZE": 100,
+    "difficulty": 0.1,
+    "difficulty_increase": 0.5
+  },
+  "base_character_stats": {
+    "DASH_ACCELERATION": 50,
+    "WALKING_ACCELERATION": 2,
+    "MAX_STAMINA": 120,
+    "STAMINA_GAIN": 0.2,
+    "STAMINA_DASH_DRAIN": 50,
+    "START_HP": 100,
+    "HEALTH_REGEN": 0.1,
+    "MAX_MAGIC": 1000,
+    "MAGIC_REGEN": 1,
+    "WALL_BOUNCINESS": 1,
+    "BULLET_FIRE_RATE": 2000,
+    "GAME_SIZE": [
+      1920,
+      1080
+    ],
+    "MAX_BULLETS": 600,
+    "MAX_HP": 100,
+    "BULLET_POWER": 20,
+    "BULLET_MAX_SPEED": 50,
+    "BULLET_ACCELERATION": 10
+  },
+  "mini_map": {
+    "render": true,
+    "size": 5,
+    "dot_size": 5,
+    "ground_color": [
+      128,
+      128,
+      59
+    ],
+    "border_color": [
+      255,
+      255,
+      255
+    ],
+    "background_color": [
+      0,
+      0,
+      0
+    ],
+    "player_color": [
+      255,
+      255,
+      255
+    ],
+    "boss_color": [
+      255,
+      0,
+      0
+    ]
+  }
+}
